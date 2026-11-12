@@ -17,11 +17,11 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ORSI — Coming Soon",
+  title: "ORSI | Coming Soon",
   description: "Something is on its way. ORSI is coming soon.",
   metadataBase: new URL("https://orsi.co"),
   openGraph: {
-    title: "ORSI — Coming Soon",
+    title: "ORSI | Coming Soon",
     description: "Something is on its way.",
     url: "https://orsi.co",
     siteName: "ORSI",
